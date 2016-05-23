@@ -1,0 +1,14 @@
+layout_spectrum: 0.937356483656913
+typography_spectrum: 0.629774991190061
+color:
+  brandStrength: 0.8440677525941283
+  lightness: 0.48807729850523174
+  saturation: 0.09153297590091825
+  rhythmicContrast: 0.27985410997644067
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: PastActions
